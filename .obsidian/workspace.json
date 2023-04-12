@@ -148,6 +148,9 @@
   },
   "active": "a6cb03281b573434",
   "lastOpenFiles": [
+    "pages/MarkDownload.md",
+    "assets/MarkDownload-export-2023-04-12_1681342061565_0.json",
+    "assets",
     "pages/2023-04-12'T'181741 - deathaumarkdownload A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file..md",
     "pages/2023-04-12'T'182428 - Getting Started • Zettelkasten Method.md",
     "pages/contents.md",
@@ -166,8 +169,6 @@
     "logseq/bak/logseq/config/2023-04-12T22_44_14.288Z.Desktop.edn",
     "logseq/bak/logseq/config/2023-04-12T22_44_11.508Z.Desktop.edn",
     "logseq/bak/logseq/config",
-    "logseq/bak/logseq",
-    "logseq/bak",
-    "logseq/custom.css"
+    "logseq/bak/logseq"
   ]
 }
