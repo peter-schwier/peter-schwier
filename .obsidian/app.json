@@ -1,0 +1,8 @@
+{
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "attachmentFolderPath": "media",
+  "trashOption": "local",
+  "promptDelete": false
+}
