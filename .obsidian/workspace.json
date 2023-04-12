@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/2023-04-12'T'182428 - Getting Started • Zettelkasten Method.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/2023-04-12'T'182428 - Getting Started • Zettelkasten Method.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/2023-04-12'T'182428 - Getting Started • Zettelkasten Method.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/2023-04-12'T'182428 - Getting Started • Zettelkasten Method.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "a6cb03281b573434",
   "lastOpenFiles": [
+    "journals/2023_04_12.md",
+    "pages/2023-04-12'T'182428 - Getting Started • Zettelkasten Method.md",
     "pages/MarkDownload.md",
     "assets/MarkDownload-export-2023-04-12_1681342061565_0.json",
     "assets",
     "pages/2023-04-12'T'181741 - deathaumarkdownload A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file..md",
-    "pages/2023-04-12'T'182428 - Getting Started • Zettelkasten Method.md",
     "pages/contents.md",
     "pages/2023-04-12'T'180414 - Visual Studio Code - Code Editing. Redefined.md",
     "media/1421840.png",
     "media",
     "pages/2023-04-12'T'180719 - Issues · deathaumarkdownload.md",
-    "journals/2023_04_12.md",
     "logseq/bak/journals/2023_04_12/2023-04-12T22_49_00.968Z.Desktop.md",
     "logseq/bak/journals/2023_04_12/2023-04-12T22_48_56.620Z.Desktop.md",
     "logseq/bak/journals/2023_04_12/2023-04-12T22_48_54.446Z.Desktop.md",
