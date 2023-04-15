@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "journals/2023_04_15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "journals/2023_04_15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "journals/2023_04_15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "journals/2023_04_15.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "a6cb03281b573434",
   "lastOpenFiles": [
+    "README.md",
+    "journals/2023_04_15.md",
     "journals/2023_04_12.md",
     "pages/2023-04-12'T'182428 - Getting Started • Zettelkasten Method.md",
     "pages/MarkDownload.md",
@@ -164,7 +166,6 @@
     "logseq/bak/journals/2023_04_12/2023-04-12T22_48_54.446Z.Desktop.md",
     "logseq/bak/journals/2023_04_12",
     "logseq/bak/journals",
-    "README.md",
     "logseq/bak/logseq/config/2023-04-12T22_44_29.849Z.Desktop.edn",
     "logseq/bak/logseq/config/2023-04-12T22_44_14.288Z.Desktop.edn",
     "logseq/bak/logseq/config/2023-04-12T22_44_11.508Z.Desktop.edn",
