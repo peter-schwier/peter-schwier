@@ -3,6 +3,10 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "pages",
   "attachmentFolderPath": "media",
-  "trashOption": "local",
-  "promptDelete": false
+  "trashOption": "none",
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true
 }
