@@ -1,3 +1,8 @@
 [
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "dataview",
+  "dbfolder",
+  "obsidian-linter",
+  "obsidian-local-rest-api",
+  "obsidian-paste-image-rename"
 ]

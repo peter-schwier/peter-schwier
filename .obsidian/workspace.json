@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2023_04_15.md",
+                "file": "journals/2023_04_16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_04_15.md",
+                "file": "journals/2023_04_16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_04_15.md",
+                "file": "journals/2023_04_16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2023_04_15.md"
+                "file": "journals/2023_04_16.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a6cb03281b573434",
   "lastOpenFiles": [
-    "README.md",
     "journals/2023_04_15.md",
+    "journals/2023_04_16.md",
+    "README.md",
     "journals/2023_04_12.md",
     "pages/2023-04-12'T'182428 - Getting Started • Zettelkasten Method.md",
     "pages/MarkDownload.md",
